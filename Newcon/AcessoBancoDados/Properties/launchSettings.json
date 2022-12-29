@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AcessoBancoDados": {
+      "commandName": "Project",
+      "sqlDebugging": false
+    }
+  }
+}

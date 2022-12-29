@@ -1,0 +1,12 @@
+D:\ProjetoTeste\TrampoNovo\AcessoBancoDados\bin\Debug\net5.0\Infraestrutura.deps.json
+D:\ProjetoTeste\TrampoNovo\AcessoBancoDados\bin\Debug\net5.0\Infraestrutura.dll
+D:\ProjetoTeste\TrampoNovo\AcessoBancoDados\bin\Debug\net5.0\ref\Infraestrutura.dll
+D:\ProjetoTeste\TrampoNovo\AcessoBancoDados\bin\Debug\net5.0\Infraestrutura.pdb
+D:\ProjetoTeste\TrampoNovo\AcessoBancoDados\obj\Debug\net5.0\Infraestrutura.csproj.AssemblyReference.cache
+D:\ProjetoTeste\TrampoNovo\AcessoBancoDados\obj\Debug\net5.0\Infraestrutura.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetoTeste\TrampoNovo\AcessoBancoDados\obj\Debug\net5.0\Infraestrutura.AssemblyInfoInputs.cache
+D:\ProjetoTeste\TrampoNovo\AcessoBancoDados\obj\Debug\net5.0\Infraestrutura.AssemblyInfo.cs
+D:\ProjetoTeste\TrampoNovo\AcessoBancoDados\obj\Debug\net5.0\Infraestrutura.csproj.CoreCompileInputs.cache
+D:\ProjetoTeste\TrampoNovo\AcessoBancoDados\obj\Debug\net5.0\Infraestrutura.dll
+D:\ProjetoTeste\TrampoNovo\AcessoBancoDados\obj\Debug\net5.0\ref\Infraestrutura.dll
+D:\ProjetoTeste\TrampoNovo\AcessoBancoDados\obj\Debug\net5.0\Infraestrutura.pdb

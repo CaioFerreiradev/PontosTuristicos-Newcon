@@ -1,0 +1,12 @@
+D:\ProjetoTeste\TrampoNovo\Negocios\bin\Debug\net5.0\Negocios.deps.json
+D:\ProjetoTeste\TrampoNovo\Negocios\bin\Debug\net5.0\Negocios.dll
+D:\ProjetoTeste\TrampoNovo\Negocios\bin\Debug\net5.0\ref\Negocios.dll
+D:\ProjetoTeste\TrampoNovo\Negocios\bin\Debug\net5.0\Negocios.pdb
+D:\ProjetoTeste\TrampoNovo\Negocios\obj\Debug\net5.0\Negocios.csproj.AssemblyReference.cache
+D:\ProjetoTeste\TrampoNovo\Negocios\obj\Debug\net5.0\Negocios.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetoTeste\TrampoNovo\Negocios\obj\Debug\net5.0\Negocios.AssemblyInfoInputs.cache
+D:\ProjetoTeste\TrampoNovo\Negocios\obj\Debug\net5.0\Negocios.AssemblyInfo.cs
+D:\ProjetoTeste\TrampoNovo\Negocios\obj\Debug\net5.0\Negocios.csproj.CoreCompileInputs.cache
+D:\ProjetoTeste\TrampoNovo\Negocios\obj\Debug\net5.0\Negocios.dll
+D:\ProjetoTeste\TrampoNovo\Negocios\obj\Debug\net5.0\ref\Negocios.dll
+D:\ProjetoTeste\TrampoNovo\Negocios\obj\Debug\net5.0\Negocios.pdb
