@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ProjetoTeste\\TrampoNovo\\Negocios\\Dominio.csproj",
+      "projectUniqueName": "C:\\PontosTuristicos-Newcon\\Newcon\\Negocios\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "D:\\ProjetoTeste\\TrampoNovo\\Negocios\\Dominio.csproj",
+      "projectPath": "C:\\PontosTuristicos-Newcon\\Newcon\\Negocios\\Dominio.csproj",
       "packagesPath": "C:\\Users\\Caio Ferreira\\.nuget\\packages\\",
-      "outputPath": "D:\\ProjetoTeste\\TrampoNovo\\Negocios\\obj\\",
+      "outputPath": "C:\\PontosTuristicos-Newcon\\Newcon\\Negocios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F134eFBdvgnwblxrl+KoTPI/aGfss9FIXqdCvo89TP6jWTanDuyvrqIeVWMdOjGIpKb0Q62Khi1rv3hpYZTNFg==",
+  "dgSpecHash": "LQNe7/EJX4pWeFMDIG0tT9J+1c5E7PEDt0xUuTlx5xs6h6ZcfZAyBFMABiQoVsqdC7roTYs4RJMc36MjDIoD7Q==",
   "success": true,
-  "projectFilePath": "D:\\ProjetoTeste\\TrampoNovo\\AcessoBancoDados\\Infraestrutura.csproj",
+  "projectFilePath": "C:\\PontosTuristicos-Newcon\\Newcon\\AcessoBancoDados\\Infraestrutura.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Caio Ferreira\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Caio Ferreira\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mvnE70aUoPJPczpib2MVvFCQtBKpeu49niwAp8oAL39oa9S1cpdT1sh9Qsy0pGa/IpUZME/lEo4hcS9QLSYdCA==",
+  "dgSpecHash": "HY6yOWr1EwnNpLq89nNoUq3T9zFwZI24Q6iR7pv59SLQ0Keh5x5R/tTtRMAtF7OTf/UwFI153V8wlTJjh7t80A==",
   "success": true,
-  "projectFilePath": "D:\\ProjetoTeste\\TrampoNovo\\Cliente.API\\PontoTuristicos.API.csproj",
+  "projectFilePath": "C:\\PontosTuristicos-Newcon\\Newcon\\Cliente.API\\PontoTuristicos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Caio Ferreira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Caio Ferreira\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
